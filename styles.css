@@ -1,0 +1,22 @@
+html,body{
+    margin:0;
+    height:120%;
+    background-color:#eb2d53;
+    font-family: "Aurora." sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+hr{
+    color: black;
+    
+}
+h1{
+    color: white;
+}
+h2{
+    color: black;
+}
+navbar{
+    font-size: large;
+    font-family: "Timeline" sans-serif;
+}
